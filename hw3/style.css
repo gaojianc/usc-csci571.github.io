@@ -190,7 +190,7 @@ h3 {
 .pane::before {
     content: "";
     position: absolute;
-	background: url(../grid.png);
+	background: url(grid.png);
 	background-size: cover;
 	
     width: 360px;
